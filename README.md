@@ -3,7 +3,7 @@
 ## Table of Contents
 
   * [Description](#description)
-  * [Built with](#built)
+  * [Technologies](#technologies)
   * [Application](#application)
   * [Contribution](#contribution)
   * [Questions](#questions)
@@ -12,7 +12,7 @@
 
 A useful budget tracker with offline capability. This is a progressive web application.
 
-## Built with
+## Technologies
 
 * Javascript
 * HTML, CSS
@@ -24,6 +24,8 @@ A useful budget tracker with offline capability. This is a progressive web appli
 ## Application
 
 https://a19budget-tracker-pwa.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/59127869/147973811-45c6c7cd-07da-420e-868d-5ea175897c52.png)
 
 
 ## Contribution
